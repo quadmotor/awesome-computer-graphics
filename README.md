@@ -107,16 +107,16 @@ photon mapping, shader programming. Recommended projects are the PBRT, the ray t
 
 ## Graphic group
 # Dec
-* [Alec Jacobson (libigl)](http://www.cs.toronto.edu/~jacobson/) 
-* [https://cims.nyu.edu/gcl/daniele.html] Daniele Panozzo
-* [https://xueyuhanlang.github.io/] Yang Liu (刘洋)
-* [http://staff.ustc] .edu.cn/~fuxm/] Xiao-Ming Fu (傅孝明)
-* [https://www.cs.ubc.ca/~sheffa/] Alla Sheffer
-* [http://pers.ge.imati.cnr.it/livesu/] Marco Livesu
-* [https://mirela.net.technion.ac.il/] Mirela Ben-Chen
-* [http://graphics.xmu.edu.cn/~zgchen/] Dr. Zhonggui Chen (陈中贵)
-* [http://irc.cs.sdu.edu.cn/~shiqing/index.html] Shiqing Xin（辛士庆）
-* [https://igl.ethz.ch/publications/] igl
+* [Alec Jacobson](http://www.cs.toronto.edu/~jacobson/) 
+* [Daniele Panozzo](https://cims.nyu.edu/gcl/daniele.html) 
+* [Yang Liu (刘洋)](https://xueyuhanlang.github.io/) 
+* [Xiao-Ming Fu (傅孝明)](http://staff.ustc.edu.cn/~fuxm/) 
+* [Alla Sheffer](https://www.cs.ubc.ca/~sheffa/) 
+* [Marco Livesu](http://pers.ge.imati.cnr.it/livesu/) 
+* [Mirela Ben-Chen](https://mirela.net.technion.ac.il/) 
+* [Dr. Zhonggui Chen (陈中贵)](http://graphics.xmu.edu.cn/~zgchen/) 
+* [Shiqing Xin（辛士庆）](http://irc.cs.sdu.edu.cn/~shiqing/index.html) 
+* [igl](https://igl.ethz.ch/publications/)
 * 
 
 ## License
