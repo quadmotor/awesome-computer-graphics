@@ -117,6 +117,10 @@ photon mapping, shader programming. Recommended projects are the PBRT, the ray t
 * [Dr. Zhonggui Chen (陈中贵)](http://graphics.xmu.edu.cn/~zgchen/) 
 * [Shiqing Xin（辛士庆）](http://irc.cs.sdu.edu.cn/~shiqing/index.html) 
 * [igl](https://igl.ethz.ch/publications/)
+* [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/)
+* [Misha](http://www.cs.jhu.edu/~misha/)
+* [Yifan Wang](https://yifita.github.io/)
+* [Xiaohu Guo](https://personal.utdallas.edu/~xguo/)
 * 
 
 ## License
