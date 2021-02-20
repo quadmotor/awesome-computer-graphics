@@ -1,6 +1,5 @@
 # Awesome Computer Graphics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="https://raw.githubusercontent.com/lhns/awesome-computer-graphics/master/media/rtow.jpg" align="center" width="1000">](https://github.com/petershirley/raytracinginoneweekend)
 
 The Awesome CG List! A collection of various resources to learn computer graphics, including books, tutorials, online courses, and more. Name a CG topic, chances are this list contains some stuff about it (if not, it will someday!).
 
@@ -108,7 +107,7 @@ photon mapping, shader programming. Recommended projects are the PBRT, the ray t
 
 ## Graphic group
 # Dec
-* [http://www.cs.toronto.edu/~jacobson/] Alec Jacobson (libigl)
+* [Alec Jacobson (libigl)](http://www.cs.toronto.edu/~jacobson/) 
 * [https://cims.nyu.edu/gcl/daniele.html] Daniele Panozzo
 * [https://xueyuhanlang.github.io/] Yang Liu (刘洋)
 * [http://staff.ustc] .edu.cn/~fuxm/] Xiao-Ming Fu (傅孝明)
