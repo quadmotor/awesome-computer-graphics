@@ -106,6 +106,20 @@ photon mapping, shader programming. Recommended projects are the PBRT, the ray t
 * [Computer Color is Broken](https://www.youtube.com/watch?v=LKnqECcg6Gw): video about how color representation/compression in computers can distort the blur effect.
 * [The Art of Code channel](https://www.youtube.com/channel/UCcAlTqd9zID6aNX3TzwxJXg): tutorials on shaders using ShaderToy, mostly videos on procedural generation.
 
+## Graphic group
+# Dec
+* [http://www.cs.toronto.edu/~jacobson/] Alec Jacobson (libigl)
+* [https://cims.nyu.edu/gcl/daniele.html] Daniele Panozzo
+* [https://xueyuhanlang.github.io/] Yang Liu (刘洋)
+* [http://staff.ustc] .edu.cn/~fuxm/] Xiao-Ming Fu (傅孝明)
+* [https://www.cs.ubc.ca/~sheffa/] Alla Sheffer
+* [http://pers.ge.imati.cnr.it/livesu/] Marco Livesu
+* [https://mirela.net.technion.ac.il/] Mirela Ben-Chen
+* [http://graphics.xmu.edu.cn/~zgchen/] Dr. Zhonggui Chen (陈中贵)
+* [http://irc.cs.sdu.edu.cn/~shiqing/index.html] Shiqing Xin（辛士庆）
+* [https://igl.ethz.ch/publications/] igl
+* 
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
