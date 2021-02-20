@@ -127,6 +127,11 @@ photon mapping, shader programming. Recommended projects are the PBRT, the ray t
 * [Leif Kobbelt](https://www.graphics.rwth-aachen.de/)
 * [Marcel Campen](http://graphics.cs.uos.de/)
 * [Jin Huang](http://www.cad.zju.edu.cn/home/hj/index.xml)
+* [Tong Xin](https://wang-ps.github.io/)
+* [GUONING CHEN](http://www2.cs.uh.edu/~chengu/)
+* [Daniel Cohen-Or](https://danielcohenor.com/)
+* [Du Qiang](http://www.columbia.edu/~qd2125/teach.html)
+* [Changxi Zheng](http://www.cs.columbia.edu/~cxz/)
 
 
 ## DP
