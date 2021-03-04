@@ -132,6 +132,7 @@ photon mapping, shader programming. Recommended projects are the PBRT, the ray t
 * [Daniel Cohen-Or](https://danielcohenor.com/)
 * [Du Qiang](http://www.columbia.edu/~qd2125/teach.html)
 * [Changxi Zheng](http://www.cs.columbia.edu/~cxz/)
+* [discretization.de](https://www.discretization.de/publications/)
 
 
 ## DP
