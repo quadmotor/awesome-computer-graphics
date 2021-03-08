@@ -23,11 +23,6 @@ Computer graphics is a knowledge area about how to create images using computers
 Before showing a lot of books, videos, and materials, first you need to know what is bare-minimum to begin with computer graphics. It boils down to two main topics: programming and math. About programming, learn the basics, it's recommended 
 to learn C/C++ as they are used frequently in this area. Concerning math, learn linear algebra and geometry, there are books in this list focused on math fundamentals for CG, pick one and work on it.
 
-### I want to learn more advanced stuff
-Assuming you know programming and math, then you can get more practical. It's a good approach to get a project about a topic 
-like global illumination, or GPU programming to deepen your knowledge on this area. Examples of projects are: path tracers, 
-photon mapping, shader programming. Recommended projects are the PBRT, the ray tracer from the [Physically Based Rendering](http://www.pbr-book.org/3ed-2018/contents.html) book, and the ray tracer with photon mapping, from the [Realistic Image Synthesis Using Photon Mapping](https://www.amazon.com/Realistic-Synthesis-Mapping-Revised-Paperback/dp/B011DC2J3O/ref=sr_1_1?s=books&ie=UTF8&qid=1540518657&sr=1-1&keywords=photon+mapping). Also, watching tutorials for [Shader Toy](https://www.shadertoy.com/) and experimenting on it is a good idea. 
-
 
 ### Books
 * [Real-Time Rendering](https://www.amazon.com/Real-Time-Rendering-Fourth-Tomas-Akenine-M%C3%B6ller/dp/1138627003/ref=sr_1_1?s=books&ie=UTF8&qid=1540516813&sr=1-1&dpID=51iw1UWKNhL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch), by Tomas Akenine-Moller, one of the best on high performance graphical applications, very detailed explanations and contains many examples to illustrate its topics.
@@ -133,7 +128,15 @@ photon mapping, shader programming. Recommended projects are the PBRT, the ray t
 * [Du Qiang](http://www.columbia.edu/~qd2125/teach.html)
 * [Changxi Zheng](http://www.cs.columbia.edu/~cxz/)
 * [discretization.de](https://www.discretization.de/publications/)
+* [Bruno Lévy](https://members.loria.fr/BLevy/)
+* [Nicolas Ray](https://members.loria.fr/NRay/)
+* [Yong-Jin Liu](https://cg.cs.tsinghua.edu.cn/#research.htm)
+* [Tamal Krishna Dey](https://web.cse.ohio-state.edu/~dey.8/)
+* [Siu-Wing Cheng](http://www.cse.ust.hk/~scheng/)
 
+## 
+* [Amal Dev Parakkat](http://iitg.ac.in/amaldevp/index.html)
+* 
 
 ## DP
 * [Hao (Richard) Zhang (张皓)](https://www2.cs.sfu.ca/~haoz/index.html)
