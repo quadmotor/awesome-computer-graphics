@@ -133,6 +133,9 @@ to learn C/C++ as they are used frequently in this area. Concerning math, learn 
 * [Yong-Jin Liu](https://cg.cs.tsinghua.edu.cn/#research.htm)
 * [Tamal Krishna Dey](https://web.cse.ohio-state.edu/~dey.8/)
 * [Siu-Wing Cheng](http://www.cse.ust.hk/~scheng/)
+* [Thomas Lewiner](http://thomas.lewiner.org/)
+
+
 
 ## 
 * [Amal Dev Parakkat](http://iitg.ac.in/amaldevp/index.html)
