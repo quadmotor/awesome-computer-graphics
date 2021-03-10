@@ -136,7 +136,7 @@ to learn C/C++ as they are used frequently in this area. Concerning math, learn 
 * [Thomas Lewiner](http://thomas.lewiner.org/)
 * [kai hormann](https://www.inf.usi.ch/hormann/) barycentric coordinates
 * [Julien Tierny](https://julien-tierny.github.io/) topo explore
-
+* [zhange](https://web.engr.oregonstate.edu/~zhange/)
 
 ## 
 * [Amal Dev Parakkat](http://iitg.ac.in/amaldevp/index.html)
