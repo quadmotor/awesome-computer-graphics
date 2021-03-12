@@ -140,10 +140,13 @@ to learn C/C++ as they are used frequently in this area. Concerning math, learn 
 * [Yaron Lipman](http://www.wisdom.weizmann.ac.il/~ylipman/)
 * [Shahar Kovalsky](https://shaharkov.github.io/)
 * [Dominique](https://www.gipsa-lab.grenoble-inp.fr/~dominique.attali)
+* [Scott Schaefer](https://people.engr.tamu.edu/schaefer/index.html)
+* [Shizhe Zhou 周世哲]（https://people.engr.tamu.edu/schaefer/index.html)
+
 
 ## 
 * [Amal Dev Parakkat](http://iitg.ac.in/amaldevp/index.html)
-* 
+
 
 ## DP
 * [Hao (Richard) Zhang (张皓)](https://www2.cs.sfu.ca/~haoz/index.html)
